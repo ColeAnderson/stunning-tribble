@@ -1,0 +1,20 @@
+js_composer
+Visual Composer <= 4.7.3 - Multiple Unspecified Cross-Site Scripting (XSS)
+XSS
+-----------------
+
+improved-sale-badges
+'improved-sale-badges'
+-----------------
+
+addthis
+Smart Website Tools by AddThis 4.0.6-5.0.2 - Stored XSS
+XSS
+-----------------
+
+profile-builder
+Profile Builder 1.1.59 - front-end/wppb.recover.password.php Password Recovery Bypass
+AUTHBYPASS
+-----------------
+
+11.849858522415161
