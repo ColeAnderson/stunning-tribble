@@ -1,0 +1,34 @@
+js_composer
+Visual Composer <= 4.7.3 - Multiple Unspecified Cross-Site Scripting (XSS)
+XSS
+-----------------
+
+addthis
+Smart Website Tools by AddThis 4.0.6-5.0.2 - Stored XSS
+XSS
+-----------------
+
+profile-builder
+Profile Builder 1.1.59 - front-end/wppb.recover.password.php Password Recovery Bypass
+AUTHBYPASS
+-----------------
+
+woocommerce
+WooCommerce 2.0.17 - hide-wc-extensions-message Parameter Reflected XSS
+XSS
+-----------------
+
+yith-woocommerce-ajax-search
+list index out of range
+-----------------
+
+improved-sale-badges
+'improved-sale-badges'
+-----------------
+
+wp-rocket
+WP Rocket <= 2.10.3 - Local File Inclusion (LFI)
+LFI
+-----------------
+
+26.968949794769287

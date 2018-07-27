@@ -17,10 +17,10 @@ a = [
 ,'addthis'
 #,'ubermenu'
 ,'profile-builder'
-#,'woocommerce'
-#,'yith-woocommerce-ajax-search'
-#,'improved-sale-badges'
-#,'wp-rocket'
+,'woocommerce'
+,'yith-woocommerce-ajax-search'
+,'improved-sale-badges'
+,'wp-rocket'
 ]
 
 st = time.time()
